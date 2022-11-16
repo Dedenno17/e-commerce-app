@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.btn-primary {
+  background-color: #f0c040;
+  color: #000;
+}
+
 .site-container {
   min-height: 100vh;
 }
@@ -37,4 +42,8 @@ main {
 
 .product-info p:last-child {
   font-weight: bold;
+}
+
+.rating span {
+  color: #ffc000;
 }
